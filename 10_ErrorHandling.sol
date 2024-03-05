@@ -30,7 +30,7 @@ contract ErrorHandling{
     }
 
     function testRequire(uint _num) external pure {
-      require(_num < 100 && _num >=0,"true");
+      require(_num < 100 && _num >=0,"true"); // terrible error
 
       /* Note:
          - The require function should be used to ensure valid conditions, 

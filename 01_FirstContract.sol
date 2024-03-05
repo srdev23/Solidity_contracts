@@ -11,5 +11,5 @@ than 0.8.0 and will compile on version less than the major version i.e. 0.9.0 */
 
 /* Contract 📃 is created using the contract keyword */
 contract FirstContract{
-    
+    //do something
 }
