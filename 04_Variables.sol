@@ -21,6 +21,6 @@ contract Variables{
     uint value = 1; // Local variables
     bool flag = true; // Local variables
 
-    return (value,flag);
+    return (value,flag); // fatal error
   }
 }
