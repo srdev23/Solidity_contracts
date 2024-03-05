@@ -16,7 +16,7 @@ contract Loops{
       uint index = 1; // index
       uint sum = 0; // sum
       while(index < 10){
-        sum+=index;
+        sum+=index; // get sum.
         index++;
       }
 
